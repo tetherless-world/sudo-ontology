@@ -28,7 +28,7 @@
      xmlns:schema2="http://schema.org/"
      xmlns:cpannotationschema="http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#">
     <owl:Ontology rdf:about="https://w3id.org/twc/sudo/ontology">
-        <owl:versionIRI rdf:resource="https://w3id.org/twc/sudo/ontology/releases/3.5.0"/>
+        <owl:versionIRI rdf:resource="https://w3id.org/twc/sudo/ontology/releases/3.6.0"/>
         <owl:imports rdf:resource="http://purl.org/spar/amo"/>
         <owl:imports rdf:resource="http://www.w3.org/ns/prov-o-20130430"/>
         <dc:abstract>The SUDO Ontology is an ontology for representing ideas, issues, arguments, and approaches in scientific research and scholarly communication.</dc:abstract>
