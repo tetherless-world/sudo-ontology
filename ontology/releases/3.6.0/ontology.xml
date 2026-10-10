@@ -906,7 +906,7 @@ E.g. see http://iswc2018.semanticweb.org/call-for-research-track-papers/.</rdfs:
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.w3.org/ns/prov#wasDerivedFrom"/>
-                <owl:someValuesFrom rdf:resource="http://purl.org/spar/doco/Paragraph"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/spar/doco/Sentence"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
